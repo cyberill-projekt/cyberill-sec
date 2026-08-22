@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CYBERILL//JobMessen 2026//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Job & Career Fairs 2026
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:gamescom@20260826
+DTSTART;TZID=Europe/Berlin:20260826T090000
+DTEND;TZID=Europe/Berlin:20260826T200000
+SUMMARY:Gamescom — Career Fair
+LOCATION:Messe Köln, Messeplatz 1, 50679 Köln
+DESCRIPTION:Schau bei uns vorbei und entdecke deine
+ Karrieremöglichkeiten beim deutschen
+ Auslandsnachrichtendienst.
+ 
+ Mehr Informationen rund um die Messe findest du auf der
+ Website der Gamescom
+CATEGORIES:JOBFAIR,CAREER
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Rappel J-1 : Gamescom demain (26.08, 9-20h,
+ Köln)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:intergeo@20260915
+DTSTART;TZID=Europe/Berlin:20260915T090000
+DTEND;TZID=Europe/Berlin:20260915T180000
+SUMMARY:INTERGEO — Career Fair
+LOCATION:Messe München, Messegelände, 81823 München
+DESCRIPTION:Schau bei uns vorbei und entdecke deine
+ Karrieremöglichkeiten beim deutschen
+ Auslandsnachrichtendienst.
+ 
+ Mehr Informationen rund um die Messe findest du auf der
+ Website der INTERGEO
+CATEGORIES:JOBFAIR,CAREER
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Rappel J-1 : INTERGEO demain (15.09, 9-18h,
+ München)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jobmesse-berlin@20261013
+DTSTART;TZID=Europe/Berlin:20261013T100000
+DTEND;TZID=Europe/Berlin:20261013T160000
+SUMMARY:16. Job- und Bildungmesse Berlin — Career Fair
+LOCATION:Olympiastadion Berlin, Olympischer Platz 3, 14053
+ Berlin
+DESCRIPTION:Schau bei uns vorbei und entdecke deine
+ Karrieremöglichkeiten beim deutschen
+ Auslandsnachrichtendienst.
+ 
+ Mehr Informationen rund um die Messe findest du auf der
+ Website Deine Jobmesse
+CATEGORIES:JOBFAIR,CAREER
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Rappel J-1 : Jobmesse Berlin demain (13.10,
+ 10-16h, Olympiastadion)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:itsa@20261027
+DTSTART;TZID=Europe/Berlin:20261027T090000
+DTEND;TZID=Europe/Berlin:20261027T180000
+SUMMARY:it-sa Expo&Congress — Career Fair
+LOCATION:Messezentrum Nürnberg, Messezentrum 1, 90471
+ Nürnberg
+DESCRIPTION:Schau bei uns vorbei und entdecke deine
+ Karrieremöglichkeiten beim deutschen
+ Auslandsnachrichtendienst.
+ 
+ Mehr Informationen rund um die Messe findest du auf der
+ Website der ITSA
+CATEGORIES:JOBFAIR,CAREER
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Rappel J-1 : it-sa demain (27.10, 9-18h,
+ Nürnberg)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:itcs@20261030
+DTSTART;TZID=Europe/Berlin:20261030T100000
+DTEND;TZID=Europe/Berlin:20261030T180000
+SUMMARY:ITCS — Career Fair
+LOCATION:MOC Veranstaltungscenter, Lilienthalallee 40, 80939
+ München
+DESCRIPTION:Schau bei uns vorbei und entdecke deine
+ Karrieremöglichkeiten beim deutschen
+ Auslandsnachrichtendienst.
+ 
+ Mehr Informationen rund um die Messe findest du auf der
+ Website der ITCS
+CATEGORIES:JOBFAIR,CAREER
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Rappel J-1 : ITCS demain (30.10, 10-18h,
+ München)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:traumberuf-mint@20261202
+DTSTART;TZID=Europe/Berlin:20261202T090000
+DTEND;TZID=Europe/Berlin:20261202T150000
+SUMMARY:Traumberuf MINT-Schülermesse — Career Fair
+LOCATION:STATION Berlin, Luckenwalder Straße 4-6, 10963
+ Berlin
+DESCRIPTION:Schau bei uns vorbei und entdecke deine
+ Karrieremöglichkeiten beim deutschen
+ Auslandsnachrichtendienst.
+ 
+ Mehr Informationen rund um die Messe findest du auf der
+ Website der Traumberuf-MINT
+CATEGORIES:JOBFAIR,CAREER
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Rappel J-1 : Traumberuf MINT demain (02.12,
+ 9-15h, STATION Berlin)
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
