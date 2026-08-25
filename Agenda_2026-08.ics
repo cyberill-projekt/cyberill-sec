@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CYBERILL//Agenda Aout 2026//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Agenda & Taches Aout 2026
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:taf-leipzig@20260818
+DTSTART;TZID=Europe/Berlin:20260818T080000
+DTEND;TZID=Europe/Berlin:20260819T180000
+SUMMARY:Taf Leipzig — déplacement (2 jours)
+LOCATION:Leipzig, Deutschland
+DESCRIPTION:Déplacement pour le Taf. Pendant le séjour: 1)
+ Faire le flyer des hommages au Papa de Gabin 2) Vérifier le
+ billet de Mabel (repoussé du 25 au 22?).
+CATEGORIES:PERSO,TASK
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Rappel J-1 : Taf Leipzig demain (18-19.08)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flyer-gabin@20260818
+DTSTART;TZID=Europe/Berlin:20260818T090000
+DTEND;TZID=Europe/Berlin:20260818T100000
+SUMMARY:Faire le flyer des hommages au Papa de Gabin
+LOCATION:Leipzig
+DESCRIPTION:Créer le flyer pour les hommages au Papa de
+ Gabin (pendant le séjour Taf).
+CATEGORIES:PERSO,TASK
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Rappel : flyer hommages Papa de Gabin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:billet-mabel@20260818
+DTSTART;TZID=Europe/Berlin:20260818T100000
+DTEND;TZID=Europe/Berlin:20260818T103000
+SUMMARY:Vérifier billet Mabel (25 -> 22 ?)
+LOCATION:Leipzig
+DESCRIPTION:Vérifier si le billet de Mabel peut être
+ repoussé de la date du 25 au 22.
+CATEGORIES:PERSO,TASK
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Rappel : vérifier billet Mabel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:relance-cliente-pub@20260818
+DTSTART;TZID=Europe/Berlin:20260818T160000
+DTEND;TZID=Europe/Berlin:20260818T163000
+SUMMARY:Relancer la cliente de la campagne publicitaire
+LOCATION:Téléphone / WhatsApp
+DESCRIPTION:Follow-up campagne publicitaire : relancer la
+ cliente (email ou WhatsApp) avec rappel de l'offre.
+CATEGORIES:PERSO,TASK
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Rappel : relancer cliente campagne pub
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
