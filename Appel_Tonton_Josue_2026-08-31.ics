@@ -21,9 +21,9 @@ DESCRIPTION:Contact : Tonton JOSUE Anderson
 CATEGORIES:COMMUNICATION,CALL,SUCHENDEN
 STATUS:CONFIRMED
 BEGIN:VALARM
-TRIGGER:-PT15M
+TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Rappel dans 15 min : Appel WhatsApp Tonton JOSUE
+DESCRIPTION:Rappel dans 30 min : Appel WhatsApp Tonton JOSUE
  Anderson (Configuration internet Institut Die Suchenden)
 END:VALARM
 END:VEVENT
