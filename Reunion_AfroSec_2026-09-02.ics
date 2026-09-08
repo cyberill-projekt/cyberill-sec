@@ -25,10 +25,10 @@ DESCRIPTION:Groupe : AfroSec Network
 CATEGORIES:AFROSEC,CYBERSECURITY,MEETING
 STATUS:CONFIRMED
 BEGIN:VALARM
-TRIGGER:-P1D
+TRIGGER:-PT1H
 ACTION:DISPLAY
-DESCRIPTION:Rappel J-1 : Présentation Threat Intelligence
- AfroSec Network demain à 20h
+DESCRIPTION:Rappel : Présentation Threat Intelligence
+ AfroSec Network dans 1 heure (20h00)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
