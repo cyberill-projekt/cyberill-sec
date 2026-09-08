@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:AfroSec Network - Threat Intelligence
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:afrosec-threat-intel@20260902
-DTSTART;TZID=Europe/Berlin:20260902T200000
-DTEND;TZID=Europe/Berlin:20260902T213000
+UID:afrosec-threat-intel@20260909
+DTSTART;TZID=Europe/Berlin:20260909T200000
+DTEND;TZID=Europe/Berlin:20260909T213000
 SUMMARY:AfroSec Network — Présentation Threat Intelligence
  (DSN)
 LOCATION:Microsoft Teams
