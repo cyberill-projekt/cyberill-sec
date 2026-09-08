@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CYBERILL//AfroSec Network Meeting//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AfroSec Network - Threat Intelligence
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:afrosec-threat-intel@20260902
+DTSTART;TZID=Europe/Berlin:20260902T200000
+DTEND;TZID=Europe/Berlin:20260902T213000
+SUMMARY:AfroSec Network — Présentation Threat Intelligence
+ (DSN)
+LOCATION:Microsoft Teams
+DESCRIPTION:Groupe : AfroSec Network
+ Ordre du jour : Présentation du projet de threat
+ intelligence par DSN
+ 
+ Lien réunion Teams :
+ https://teams.microsoft.com/meet/384035596231223?p=2gkFEuGdL
+ pTORj2Ugn
+ 
+ Lien groupe WhatsApp AfroSec Network :
+ https://chat.whatsapp.com/EATyEdnjKnG9KVFGs3kJZk?mode=gi_t
+CATEGORIES:AFROSEC,CYBERSECURITY,MEETING
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Rappel J-1 : Présentation Threat Intelligence
+ AfroSec Network demain à 20h
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
