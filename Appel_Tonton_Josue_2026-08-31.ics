@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CYBERILL//Appel Tonton Josue//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Appel Tonton JOSUE Anderson
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:appel-tonton-josue@20260831
+DTSTART;TZID=Europe/Berlin:20260831T200000
+DTEND;TZID=Europe/Berlin:20260831T203000
+SUMMARY:Appel WhatsApp — Tonton JOSUE Anderson (Institut Die
+ Suchenden)
+LOCATION:WhatsApp (+49 179 4189594)
+DESCRIPTION:Contact : Tonton JOSUE Anderson
+ Mobile : +49 179 4189594
+ Canal : WhatsApp
+ 
+ Objet : Configuration de la connexion internet de l'institut
+ Die Suchenden.
+CATEGORIES:COMMUNICATION,CALL,SUCHENDEN
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Rappel dans 15 min : Appel WhatsApp Tonton JOSUE
+ Anderson (Configuration internet Institut Die Suchenden)
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
